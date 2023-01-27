@@ -1,0 +1,4 @@
+#Tue Jan 24 05:05:59 IST 2023
+base.0=/home/shubhansh1607/Desktop/FLUTTER/bmi_calc/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
